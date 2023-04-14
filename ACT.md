@@ -85,14 +85,14 @@ OLDI-ACT-310-M	For the purposes of this document, following the transmission of 
 Examples
 The following examples are an extension of those provided for the ABI message in section 6.2 - Advance Boundary Information Message (ABI); all details are the same except the ETO at the COP, which is 1226 in the ACT message shown.
 
-ICAO
+### ICAO
 (ACTE/L005-AMM253/A7012-LMML-ALESO/1226F350-EGBB-8/I-9/2B757/M-15/N0480F390 UT10 ALESO UT420 BUZAD UL10 HON-80/N-81/W/EQ Y/NO R/EQ/O1D1 S/UN-
  
 
 
 18/DEP/LUQA AIRPORT DEST/BIRMINGHAM OPR/AIR 2000 LTD ALTN/EGLL RALT/EGKK RMK/ONE ENG INOP)
 
-ADEXP
+### ADEXP
 -TITLE ACT
 -REFDATA
 -SENDER -FAC E
