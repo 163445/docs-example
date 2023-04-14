@@ -37,18 +37,32 @@ This Specification when approved will supersede Edition 4.3.
 It is to be noted that the EUROCONTROL Guidelines for OLDI [GUID] included proposed content for a future release of the OLDI Specification, these have been further reviewed by the OLDI group for integration into this Edition of the OLDI Specification. The following are the most significant changes and additions from Edition 4.3 to Edition 5.0:
 
 1. Optional requirements concerning the processing of destination airport within REV message (new OLDI-REV-86-O, OLDI-REV-135-O and OLDI-REV-145-O);
+
 2. Clarification of MAC message and deletion of MAC redundant requirements (new OLDI-MAC- 145-R, amended OLDI-MAC-80-M, deleted OLDI-MAC-70-M and OLDI-MAC-190-M);
+
 3. MAC message optional and recommended requirements concerning the delay of transmission (OLDI-MAC-30-M 4th bullet and new note, new OLDI-MAC-45-R, new note for OLDI-MAC-180-M);
+
 4. Recommended requirements for ABI/PAC/ACT/RAP transmission delay in cases where an abrogation changes the sequence between the ATS unit (new OLDI-ABI-145-R, OLDI-ACT- 245-R, OLDI-PAC-245-R, OLDI-RAP-155-R);
+
 5. Optional LOF field for catering ATNB2 (OLDI-LOF-25-O and new section 18.55);
+
 6. Former Annex A and B integrated to the main part of OLDI Specification as sections 18 and 17 (respectively) including updated cross-references;
+
 7. Former Annex G transferred to OLDI Guidelines [GUID];
+
+
 8. Alignment of OLDI Specification with ADEXP Specification [ADEXP] concerning the handling of Assigned heading optional field and inclusion of note concerning the relative heading (OLDI-FC-AHD-13-O and new OLDI-FC-AHD-15-M);
+
 9. New note for OLDI-REV-200-M;
+
 10. Reviewed ROF message purpose (2nd bullet) and additional message optional fields (OLDI- ROF-25-O) and amended OLDI-ROF-70-R;
+
 11. Update OLDI-SBY-20-M, OLDI-RJC-30-M and section 8.8.1 for operational reply to RRQ message;
-12. Correction in 18.39.1 to replace ?point? by ?pt?
+
+12. Correction in 18.39.1 to replace "point" by "pt"
+
 13. Editorial corrections in OLDI-BAS-10-M and Annex B.1;
+
 14. New introductory text for Annex D, new maintenance Annex E.
 
 ## Relationship to Other Documents
